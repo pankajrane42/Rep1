@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 4AEC-5EB5
+
+ Directory of D:\SparkSoftware\Git\MyProject
+
+07/04/2018  12:39    <DIR>          .
+07/04/2018  12:39    <DIR>          ..
+07/04/2018  12:36    <DIR>          .git
+07/04/2018  12:39                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  236,377,280,512 bytes free
